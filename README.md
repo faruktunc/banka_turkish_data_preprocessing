@@ -1,10 +1,8 @@
 # Turkish Bank App Reviews Data Preprocessing
 
-Bu proje, bankacılık uygulamalarına ait kullanıcı yorumlarını Doğal Dil İşleme (NLP) ve Makine Öğrenmesi (Sentiment Analysis vb.) modelleri için hazırlayan gelişmiş bir ön işleme hattıdır.
-
 ## Kurulum (Linux)
 
-Proje **Python 3.8+** gerektirir. Kurulum için aşağıdaki adımları terminalinizde sırasıyla uygulayın:
+Proje **Python 3.12+** gerektirir. Kurulum için aşağıdaki adımları terminalinizde sırasıyla uygulayın:
 
 1. **Virtual Environment (Sanal Ortam) Oluşturun:**
    ```bash
