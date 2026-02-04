@@ -37,6 +37,8 @@ Bu komut `bankauygulamayorumlar` klasöründeki tüm CSV dosyalarını okuyup i�
 
 Örnek bir çalıştırma çıktısı için [terminal.md](terminal.md) dosyasına bakabilirsiniz.
 
+[Birleştirilmiş CSV Dosyalarını İndir (Google Drive)](https://drive.google.com/file/d/19BeETauee7iKUPdMT-UfxdkCHl-HmdcO/view?usp=sharing)
+
 ---
 
 ## Örnek Çıktı
