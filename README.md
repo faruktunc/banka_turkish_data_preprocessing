@@ -61,6 +61,9 @@ Bu veriler direkt olarak çıkış dosyasından (`output/turkiye_finans_processe
 | `score_encoded` | 4 |
 | `has_reply` | True |
 | `thumbsUpCount` | 0 |
+| `review_year` | 2025 |
+| `review_month` | 8 |
+| `review_day` | 19 |
 | `reviewCreatedVersion` | 8.6.5 |
 | `appVersion` | 8.6.5 |
 | `bank_name` | Türkiye Finans |
